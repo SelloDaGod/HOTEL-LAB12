@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LkZNhOAxes3vN3ZjQ6Qc9Ljoq1T+BMHc9aa10gAN1Y+P8HOFS4D/kwjf6Nyvhk13RiDyZN4JG66eiFa/Kcf/mQ==",
+  "dgSpecHash": "vrcQpgkfNVeKxrojdbzeMU67J1eCXJ8FSOivD20oNAx1IVRf5wD+bpZSMlmlckrXXbRaCxBFYByWMBu1i56geg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marce\\OneDrive\\Documents\\GitHub\\HOTEL-LAB12\\Lab12\\Lab12.csproj",
   "expectedPackageFiles": [
@@ -38,10 +38,12 @@
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marce\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Marce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",

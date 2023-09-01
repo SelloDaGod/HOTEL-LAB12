@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Lab12.Data;
 using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Builder;
+
 namespace Lab12
 
 {
@@ -22,6 +24,8 @@ namespace Lab12
                     .GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
+
+           
 
             //app.MapGet("/", () => "Hello World!");
 
